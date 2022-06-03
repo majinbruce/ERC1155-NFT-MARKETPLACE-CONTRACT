@@ -16,7 +16,7 @@
 Custom ERC20 token for transaction of nfts.
 * Contract deployed on rinkeby test network at:
 
-> 0x49e75Ca51246Fa01dF11E54eAed4b1C6d17d0422
+> 0x8e78EF7B43014404b1Ff5278E940231FFd6E38F9
 
 ## ERC115.sol contarct
 #### mints NFTs directly to the deployer of the contract </br>
@@ -26,7 +26,7 @@ gold      : 10^3 tokens </br>
 platinum  : 1 token (non-fungible) </br>
 
 * Contract deployed on rinkeby test network at:
-> 0xF28FE2d30Ec1ba4468b45597D638a774888a39eC
+> 0x97b47651Ff8F2eb65F7F291236E47a221B0E5B3B
 
 ## marketplace.sol contarct
 * Users can Buy, Sell NFT.
@@ -34,7 +34,7 @@ platinum  : 1 token (non-fungible) </br>
 * Users can set Fractional Royalties of Multiple Owner(s) for the NFT’s Selling Price. </br> </br>
 
 * Contract deployed on rinkeby test network at:
-> 0x5f8B87F01d4Cc518d96E936B95DD47E19eB5eC1f
+> 0xf8ea92404F3532Cac8D79dA1D0D037b36ea9132A
 
 ## Requirements For Initial Setup
 * Install NodeJS, should work with any node version below 16.5.0
