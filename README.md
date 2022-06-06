@@ -49,7 +49,8 @@ platinum  : 1 token (non-fungible) </br>
 
 3. Install Plugins:
 > npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai </br>
-> npm install --save-dev @nomiclabs/hardhat-etherscan
+> npm install --save-dev @nomiclabs/hardhat-etherscan  </br>
+> npm install @openzeppelin/contracts
 
 4. Compile:
 > npx hardhat compile
