@@ -9,9 +9,10 @@
 * Hardhat (Development Framework)
 
 #
-### Description
+### Description:-
 #### NFT Marketplace to buy and sell NFT with your custom ERC20 token.
 #### Code is split into 3 diffrent smart contracts:-
+
 ## MyToken.sol contarct
 Custom ERC20 token for transaction of nfts.
 * Contract deployed on rinkeby test network at:
@@ -41,8 +42,9 @@ platinum  : 1 token (non-fungible) </br>
 * Install Hardhat
 
 ## Setting Up
-1. Clone/Download the Repository </br></br>
-2. Install Dependencies:
+1. Clone/Download the Repository </br>
+> git clone https://github.com/majinbruce/ERC1155-NFT-MARKETPLACE-CONTRACT.git
+3. Install Dependencies:
 > npm init --yes </br>
 > npm install --save-dev hardhat </br>
 > npm install dotenv --save </br>
